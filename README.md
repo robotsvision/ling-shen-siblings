@@ -1,6 +1,6 @@
 # Ling and Shen (siblings/twins) sumo robots
 
-![Ling and Shen](img\ls-3.jpeg)
+![Ling and Shen](img/ls-3.jpeg)
 
 ## Ling
 
@@ -42,8 +42,8 @@
 
 ## Gallery
 
-![Ling and Shen](img\ls-1.jpeg)
-![Ling and Shen](img\ls-1.1.jpeg)
-![Ling and Shen](img\ls-2.jpeg)
-![Ling and Shen](img\ls-3.jpeg)
-![Ling and Shen](img\ls-5.jpeg)
+![Ling and Shen](img/ls-1.jpeg)
+![Ling and Shen](img/ls-1.1.jpeg)
+![Ling and Shen](img/ls-2.jpeg)
+![Ling and Shen](img/ls-3.jpeg)
+![Ling and Shen](img/ls-5.jpeg)
