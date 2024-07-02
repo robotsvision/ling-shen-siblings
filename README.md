@@ -1,8 +1,8 @@
-# Ling and Shen (siblings/twins) sumo robots
+# Lina and Shen (siblings/twins) sumo robots
 
 ![Ling and Shen](img/ls-3.jpeg)
 
-## Ling
+## Lina
 
 * Release date: 23. Jul 2023
 * Old fullname: Ling Crowbar
